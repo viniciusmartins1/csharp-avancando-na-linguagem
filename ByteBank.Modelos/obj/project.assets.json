@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vmartins\\Documents\\Meus Projetos\\csharp-avancando-na-linguagem\\ByteBank.Modelos\\ByteBank.Modelos.csproj",
+      "projectUniqueName": "c:\\Users\\vmartins\\Documents\\Meus_Projetos\\csharp-avancando-na-linguagem\\ByteBank.Modelos\\ByteBank.Modelos.csproj",
       "projectName": "ByteBank.Modelos",
-      "projectPath": "C:\\Users\\vmartins\\Documents\\Meus Projetos\\csharp-avancando-na-linguagem\\ByteBank.Modelos\\ByteBank.Modelos.csproj",
+      "projectPath": "c:\\Users\\vmartins\\Documents\\Meus_Projetos\\csharp-avancando-na-linguagem\\ByteBank.Modelos\\ByteBank.Modelos.csproj",
       "packagesPath": "C:\\Users\\vmartins\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vmartins\\Documents\\Meus Projetos\\csharp-avancando-na-linguagem\\ByteBank.Modelos\\obj\\",
+      "outputPath": "c:\\Users\\vmartins\\Documents\\Meus_Projetos\\csharp-avancando-na-linguagem\\ByteBank.Modelos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
