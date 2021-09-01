@@ -1,0 +1,24 @@
+C:\Users\vmartins\Documents\Meus Projetos\csharp-avancando-na-linguagem\ByteBank.Modelos\bin\Debug\netstandard2.0\ByteBank.Modelos.deps.json
+C:\Users\vmartins\Documents\Meus Projetos\csharp-avancando-na-linguagem\ByteBank.Modelos\bin\Debug\netstandard2.0\ByteBank.Modelos.dll
+C:\Users\vmartins\Documents\Meus Projetos\csharp-avancando-na-linguagem\ByteBank.Modelos\bin\Debug\netstandard2.0\ByteBank.Modelos.pdb
+C:\Users\vmartins\Documents\Meus Projetos\csharp-avancando-na-linguagem\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\vmartins\Documents\Meus Projetos\csharp-avancando-na-linguagem\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.AssemblyInfoInputs.cache
+C:\Users\vmartins\Documents\Meus Projetos\csharp-avancando-na-linguagem\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.AssemblyInfo.cs
+C:\Users\vmartins\Documents\Meus Projetos\csharp-avancando-na-linguagem\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.dll
+C:\Users\vmartins\Documents\Meus Projetos\csharp-avancando-na-linguagem\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.pdb
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\ByteBank.Modelos\bin\Debug\netstandard2.0\ByteBank.Modelos.deps.json
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\ByteBank.Modelos\bin\Debug\netstandard2.0\ByteBank.Modelos.dll
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\ByteBank.Modelos\bin\Debug\netstandard2.0\ByteBank.Modelos.pdb
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.AssemblyInfoInputs.cache
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.AssemblyInfo.cs
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.dll
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.pdb
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\PrimeiroProjeto\ByteBank.Modelos\bin\Debug\netstandard2.0\ByteBank.Modelos.deps.json
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\PrimeiroProjeto\ByteBank.Modelos\bin\Debug\netstandard2.0\ByteBank.Modelos.dll
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\PrimeiroProjeto\ByteBank.Modelos\bin\Debug\netstandard2.0\ByteBank.Modelos.pdb
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\PrimeiroProjeto\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\PrimeiroProjeto\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.AssemblyInfoInputs.cache
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\PrimeiroProjeto\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.AssemblyInfo.cs
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\PrimeiroProjeto\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.dll
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\PrimeiroProjeto\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.pdb

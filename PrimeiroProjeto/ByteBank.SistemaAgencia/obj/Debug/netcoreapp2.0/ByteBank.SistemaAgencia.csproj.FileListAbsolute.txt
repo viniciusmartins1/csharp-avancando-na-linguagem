@@ -1,0 +1,39 @@
+C:\Users\vmartins\Documents\Meus Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\obj\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+C:\Users\vmartins\Documents\Meus Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\obj\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.AssemblyInfoInputs.cache
+C:\Users\vmartins\Documents\Meus Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\obj\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.AssemblyInfo.cs
+C:\Users\vmartins\Documents\Meus Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\bin\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.deps.json
+C:\Users\vmartins\Documents\Meus Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\bin\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.runtimeconfig.json
+C:\Users\vmartins\Documents\Meus Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\bin\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.runtimeconfig.dev.json
+C:\Users\vmartins\Documents\Meus Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\bin\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.dll
+C:\Users\vmartins\Documents\Meus Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\bin\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.pdb
+C:\Users\vmartins\Documents\Meus Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\bin\Debug\netcoreapp2.0\ByteBank.Modelos.dll
+C:\Users\vmartins\Documents\Meus Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\bin\Debug\netcoreapp2.0\ByteBank.Modelos.pdb
+C:\Users\vmartins\Documents\Meus Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\obj\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.csproj.CopyComplete
+C:\Users\vmartins\Documents\Meus Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\obj\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.dll
+C:\Users\vmartins\Documents\Meus Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\obj\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.pdb
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\bin\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.deps.json
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\bin\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.runtimeconfig.json
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\bin\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.runtimeconfig.dev.json
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\bin\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.dll
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\bin\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.pdb
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\bin\Debug\netcoreapp2.0\ByteBank.Modelos.dll
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\bin\Debug\netcoreapp2.0\ByteBank.Modelos.pdb
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\obj\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\obj\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.AssemblyInfoInputs.cache
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\obj\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.AssemblyInfo.cs
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\obj\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.csproj.CopyComplete
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\obj\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.dll
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\ByteBank.SistemaAgencia\obj\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.pdb
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\PrimeiroProjeto\ByteBank.SistemaAgencia\bin\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.deps.json
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\PrimeiroProjeto\ByteBank.SistemaAgencia\bin\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.runtimeconfig.json
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\PrimeiroProjeto\ByteBank.SistemaAgencia\bin\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.runtimeconfig.dev.json
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\PrimeiroProjeto\ByteBank.SistemaAgencia\bin\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.dll
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\PrimeiroProjeto\ByteBank.SistemaAgencia\bin\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.pdb
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\PrimeiroProjeto\ByteBank.SistemaAgencia\bin\Debug\netcoreapp2.0\ByteBank.Modelos.dll
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\PrimeiroProjeto\ByteBank.SistemaAgencia\bin\Debug\netcoreapp2.0\ByteBank.Modelos.pdb
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\PrimeiroProjeto\ByteBank.SistemaAgencia\obj\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\PrimeiroProjeto\ByteBank.SistemaAgencia\obj\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.AssemblyInfoInputs.cache
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\PrimeiroProjeto\ByteBank.SistemaAgencia\obj\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.AssemblyInfo.cs
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\PrimeiroProjeto\ByteBank.SistemaAgencia\obj\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.csproj.CopyComplete
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\PrimeiroProjeto\ByteBank.SistemaAgencia\obj\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.dll
+C:\Users\vmartins\Documents\Meus_Projetos\csharp-avancando-na-linguagem\PrimeiroProjeto\ByteBank.SistemaAgencia\obj\Debug\netcoreapp2.0\ByteBank.SistemaAgencia.pdb
