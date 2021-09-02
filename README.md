@@ -7,3 +7,6 @@ Exercícios de alguns dos cursos da formação programação com C# do [Alura](h
 - Bibliotecas de Classes;
 - Referências no projeto;
 - Modificadores de acesso internal e internal protected;
+- Comentários de documentação  XML;
+- Documentação de Exceções, Classes e Funções;
+
