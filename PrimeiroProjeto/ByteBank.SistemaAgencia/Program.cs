@@ -12,11 +12,11 @@ namespace ByteBank.SistemaAgencia
 
             TimeSpan diferenca = dataFimPagamento - dataCorrente;
 
-            string mensagem = "Vencimento em " + GetIntervaloDeTempoLegivel(diferenca);
+            //string mensagem = "Vencimento em " + Humanizer.TimeSpanHumanizerExtensions.Humanize(diferenca);
             
-            Console.WriteLine(mensagem);
-            //Console.WriteLine(dataCorrente);
-            //Console.WriteLine(dataFimPagamento);
+            //Console.WriteLine(mensagem);
+            Console.WriteLine(dataCorrente);
+            Console.WriteLine(dataFimPagamento);
 
         }
 

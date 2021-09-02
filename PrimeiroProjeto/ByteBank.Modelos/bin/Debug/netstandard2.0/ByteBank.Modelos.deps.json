@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "2468f8819b4e290b1a8667020137de51bd83af19"
+    "signature": "fa21a657f711b3f55e2a935a6a8778c4a339416b"
   },
   "compilationOptions": {},
   "targets": {
@@ -9,10 +9,537 @@
     ".NETStandard,Version=v2.0/": {
       "ByteBank.Modelos/1.0.0": {
         "dependencies": {
+          "Humanizer": "2.11.10",
           "NETStandard.Library": "2.0.1"
         },
         "runtime": {
           "ByteBank.Modelos.dll": {}
+        }
+      },
+      "Humanizer/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core.af": "2.11.10",
+          "Humanizer.Core.ar": "2.11.10",
+          "Humanizer.Core.az": "2.11.10",
+          "Humanizer.Core.bg": "2.11.10",
+          "Humanizer.Core.bn-BD": "2.11.10",
+          "Humanizer.Core.cs": "2.11.10",
+          "Humanizer.Core.da": "2.11.10",
+          "Humanizer.Core.de": "2.11.10",
+          "Humanizer.Core.el": "2.11.10",
+          "Humanizer.Core.es": "2.11.10",
+          "Humanizer.Core.fa": "2.11.10",
+          "Humanizer.Core.fi-FI": "2.11.10",
+          "Humanizer.Core.fr": "2.11.10",
+          "Humanizer.Core.fr-BE": "2.11.10",
+          "Humanizer.Core.he": "2.11.10",
+          "Humanizer.Core.hr": "2.11.10",
+          "Humanizer.Core.hu": "2.11.10",
+          "Humanizer.Core.hy": "2.11.10",
+          "Humanizer.Core.id": "2.11.10",
+          "Humanizer.Core.it": "2.11.10",
+          "Humanizer.Core.ja": "2.11.10",
+          "Humanizer.Core.ko-KR": "2.11.10",
+          "Humanizer.Core.ku": "2.11.10",
+          "Humanizer.Core.lv": "2.11.10",
+          "Humanizer.Core.ms-MY": "2.11.10",
+          "Humanizer.Core.mt": "2.11.10",
+          "Humanizer.Core.nb": "2.11.10",
+          "Humanizer.Core.nb-NO": "2.11.10",
+          "Humanizer.Core.nl": "2.11.10",
+          "Humanizer.Core.pl": "2.11.10",
+          "Humanizer.Core.pt": "2.11.10",
+          "Humanizer.Core.ro": "2.11.10",
+          "Humanizer.Core.ru": "2.11.10",
+          "Humanizer.Core.sk": "2.11.10",
+          "Humanizer.Core.sl": "2.11.10",
+          "Humanizer.Core.sr": "2.11.10",
+          "Humanizer.Core.sr-Latn": "2.11.10",
+          "Humanizer.Core.sv": "2.11.10",
+          "Humanizer.Core.th-TH": "2.11.10",
+          "Humanizer.Core.tr": "2.11.10",
+          "Humanizer.Core.uk": "2.11.10",
+          "Humanizer.Core.uz-Cyrl-UZ": "2.11.10",
+          "Humanizer.Core.uz-Latn-UZ": "2.11.10",
+          "Humanizer.Core.vi": "2.11.10",
+          "Humanizer.Core.zh-CN": "2.11.10",
+          "Humanizer.Core.zh-Hans": "2.11.10",
+          "Humanizer.Core.zh-Hant": "2.11.10"
+        }
+      },
+      "Humanizer.Core/2.11.10": {
+        "runtime": {
+          "lib/netstandard2.0/Humanizer.dll": {}
+        }
+      },
+      "Humanizer.Core.af/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/af/Humanizer.resources.dll": {
+            "locale": "af"
+          }
+        }
+      },
+      "Humanizer.Core.ar/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/ar/Humanizer.resources.dll": {
+            "locale": "ar"
+          }
+        }
+      },
+      "Humanizer.Core.az/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/az/Humanizer.resources.dll": {
+            "locale": "az"
+          }
+        }
+      },
+      "Humanizer.Core.bg/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/bg/Humanizer.resources.dll": {
+            "locale": "bg"
+          }
+        }
+      },
+      "Humanizer.Core.bn-BD/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/bn-BD/Humanizer.resources.dll": {
+            "locale": "bn-BD"
+          }
+        }
+      },
+      "Humanizer.Core.cs/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/cs/Humanizer.resources.dll": {
+            "locale": "cs"
+          }
+        }
+      },
+      "Humanizer.Core.da/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/da/Humanizer.resources.dll": {
+            "locale": "da"
+          }
+        }
+      },
+      "Humanizer.Core.de/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/de/Humanizer.resources.dll": {
+            "locale": "de"
+          }
+        }
+      },
+      "Humanizer.Core.el/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/el/Humanizer.resources.dll": {
+            "locale": "el"
+          }
+        }
+      },
+      "Humanizer.Core.es/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/es/Humanizer.resources.dll": {
+            "locale": "es"
+          }
+        }
+      },
+      "Humanizer.Core.fa/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/fa/Humanizer.resources.dll": {
+            "locale": "fa"
+          }
+        }
+      },
+      "Humanizer.Core.fi-FI/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/fi-FI/Humanizer.resources.dll": {
+            "locale": "fi-FI"
+          }
+        }
+      },
+      "Humanizer.Core.fr/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/fr/Humanizer.resources.dll": {
+            "locale": "fr"
+          }
+        }
+      },
+      "Humanizer.Core.fr-BE/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/fr-BE/Humanizer.resources.dll": {
+            "locale": "fr-BE"
+          }
+        }
+      },
+      "Humanizer.Core.he/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/he/Humanizer.resources.dll": {
+            "locale": "he"
+          }
+        }
+      },
+      "Humanizer.Core.hr/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/hr/Humanizer.resources.dll": {
+            "locale": "hr"
+          }
+        }
+      },
+      "Humanizer.Core.hu/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/hu/Humanizer.resources.dll": {
+            "locale": "hu"
+          }
+        }
+      },
+      "Humanizer.Core.hy/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/hy/Humanizer.resources.dll": {
+            "locale": "hy"
+          }
+        }
+      },
+      "Humanizer.Core.id/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/id/Humanizer.resources.dll": {
+            "locale": "id"
+          }
+        }
+      },
+      "Humanizer.Core.it/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/it/Humanizer.resources.dll": {
+            "locale": "it"
+          }
+        }
+      },
+      "Humanizer.Core.ja/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/ja/Humanizer.resources.dll": {
+            "locale": "ja"
+          }
+        }
+      },
+      "Humanizer.Core.ko-KR/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/ko-KR/Humanizer.resources.dll": {
+            "locale": "ko-KR"
+          }
+        }
+      },
+      "Humanizer.Core.ku/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/ku/Humanizer.resources.dll": {
+            "locale": "ku"
+          }
+        }
+      },
+      "Humanizer.Core.lv/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/lv/Humanizer.resources.dll": {
+            "locale": "lv"
+          }
+        }
+      },
+      "Humanizer.Core.ms-MY/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/ms-MY/Humanizer.resources.dll": {
+            "locale": "ms-MY"
+          }
+        }
+      },
+      "Humanizer.Core.mt/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/mt/Humanizer.resources.dll": {
+            "locale": "mt"
+          }
+        }
+      },
+      "Humanizer.Core.nb/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/nb/Humanizer.resources.dll": {
+            "locale": "nb"
+          }
+        }
+      },
+      "Humanizer.Core.nb-NO/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/nb-NO/Humanizer.resources.dll": {
+            "locale": "nb-NO"
+          }
+        }
+      },
+      "Humanizer.Core.nl/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/nl/Humanizer.resources.dll": {
+            "locale": "nl"
+          }
+        }
+      },
+      "Humanizer.Core.pl/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/pl/Humanizer.resources.dll": {
+            "locale": "pl"
+          }
+        }
+      },
+      "Humanizer.Core.pt/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/pt/Humanizer.resources.dll": {
+            "locale": "pt"
+          }
+        }
+      },
+      "Humanizer.Core.ro/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/ro/Humanizer.resources.dll": {
+            "locale": "ro"
+          }
+        }
+      },
+      "Humanizer.Core.ru/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/ru/Humanizer.resources.dll": {
+            "locale": "ru"
+          }
+        }
+      },
+      "Humanizer.Core.sk/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/sk/Humanizer.resources.dll": {
+            "locale": "sk"
+          }
+        }
+      },
+      "Humanizer.Core.sl/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/sl/Humanizer.resources.dll": {
+            "locale": "sl"
+          }
+        }
+      },
+      "Humanizer.Core.sr/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/sr/Humanizer.resources.dll": {
+            "locale": "sr"
+          }
+        }
+      },
+      "Humanizer.Core.sr-Latn/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/sr-Latn/Humanizer.resources.dll": {
+            "locale": "sr-Latn"
+          }
+        }
+      },
+      "Humanizer.Core.sv/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/sv/Humanizer.resources.dll": {
+            "locale": "sv"
+          }
+        }
+      },
+      "Humanizer.Core.th-TH/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/th-TH/Humanizer.resources.dll": {
+            "locale": "th-TH"
+          }
+        }
+      },
+      "Humanizer.Core.tr/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/tr/Humanizer.resources.dll": {
+            "locale": "tr"
+          }
+        }
+      },
+      "Humanizer.Core.uk/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/uk/Humanizer.resources.dll": {
+            "locale": "uk"
+          }
+        }
+      },
+      "Humanizer.Core.uz-Cyrl-UZ/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/uz-Cyrl-UZ/Humanizer.resources.dll": {
+            "locale": "uz-Cyrl-UZ"
+          }
+        }
+      },
+      "Humanizer.Core.uz-Latn-UZ/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/uz-Latn-UZ/Humanizer.resources.dll": {
+            "locale": "uz-Latn-UZ"
+          }
+        }
+      },
+      "Humanizer.Core.vi/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/vi/Humanizer.resources.dll": {
+            "locale": "vi"
+          }
+        }
+      },
+      "Humanizer.Core.zh-CN/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/zh-CN/Humanizer.resources.dll": {
+            "locale": "zh-CN"
+          }
+        }
+      },
+      "Humanizer.Core.zh-Hans/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/zh-Hans/Humanizer.resources.dll": {
+            "locale": "zh-Hans"
+          }
+        }
+      },
+      "Humanizer.Core.zh-Hant/2.11.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.11.10"
+        },
+        "resources": {
+          "lib/netstandard2.0/zh-Hant/Humanizer.resources.dll": {
+            "locale": "zh-Hant"
+          }
         }
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
@@ -28,6 +555,349 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Humanizer/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iBKnefim9KCvNaEqx4zPQHjBb+Jg8S3+Z1AYXniaKr/EbO/jA33rdPtu4vs6AEKSk2RjfPgKT+c0dkJSCj7H3Q==",
+      "path": "humanizer/2.11.10",
+      "hashPath": "humanizer.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tUuQVtkkC7BIoZXyZGXi1rOHSIi/9/8kNKN878lb+fRcnJRLKWLOQhjRhZOIis6pkeAarN2hRTkI1H3q4v9JMg==",
+      "path": "humanizer.core/2.11.10",
+      "hashPath": "humanizer.core.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.af/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Vu+k4qclr2PRYA+FCArcoV0CxPsdn9zaAbgOVmTrfmdbi1a2gVzFjLUQLn1SxOSPBDZotag4X+hk6HqmAFpEEw==",
+      "path": "humanizer.core.af/2.11.10",
+      "hashPath": "humanizer.core.af.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.ar/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rpa0DB2m9opaQCjCSDe8tBrIUWABpGTZScM1HnlACPXow35EY3Pl6of6JF+3A9QSSXBGJLn3x7h1PqlGxwATfA==",
+      "path": "humanizer.core.ar/2.11.10",
+      "hashPath": "humanizer.core.ar.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.az/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-A0ZU+LNkaMn6qi/gH83Oo4ceKM3nLlDRinCeDJdF44uzvwiYo8ZRYBCfYPf9HD38dwmsfeQH2EJ9gnxzJYJ1kg==",
+      "path": "humanizer.core.az/2.11.10",
+      "hashPath": "humanizer.core.az.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.bg/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EpF4svrbjy0HR/DTSaWtCtHY0L6Qd/YELym6/0b+oJk2WYqOtplCzwxPLR4Mu9ekUN1ZksNzqPDB6c/R+pD03g==",
+      "path": "humanizer.core.bg/2.11.10",
+      "hashPath": "humanizer.core.bg.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.bn-BD/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ztv/Wn7DoVlEYd+jYqX8dJelyfAWyFK4VAbTR1dBnWObOrpNEc9PIPPo4FyyZD4LO4dq2xPEnQ63JASfbj+x7g==",
+      "path": "humanizer.core.bn-bd/2.11.10",
+      "hashPath": "humanizer.core.bn-bd.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.cs/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-meTTEX8QrM6IQ+aOIUUEDQQcfLk6bKPTUuCKdNdSfAb77tZzeeWPUynJVimH8ndiMtRFioUH1cSvbqzVV7t3eg==",
+      "path": "humanizer.core.cs/2.11.10",
+      "hashPath": "humanizer.core.cs.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.da/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yKpWKEYqZVXIZPxzVkGjn5kiEwlsCDaOsYMf7wI94D5WXJm9085fMMpAmntez0IlzFb0P9qie52rst46XgT0wg==",
+      "path": "humanizer.core.da/2.11.10",
+      "hashPath": "humanizer.core.da.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.de/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1daCd+p1J2rrnS3ola2cn/SjT0GAFP4UMCkA3zgJojW5TzuubuNKSPdJyRlld4caItDTZunjQG3za3AnVke/fA==",
+      "path": "humanizer.core.de/2.11.10",
+      "hashPath": "humanizer.core.de.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.el/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cFaaKWoJ25ibfIX48ZskmweGeixqtyQRzUHfmZjshZbk0eHKrIEwgtI30TPUVemVBtAljlmzhZzGd5F6FTidcA==",
+      "path": "humanizer.core.el/2.11.10",
+      "hashPath": "humanizer.core.el.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.es/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CNKyMfTwTHl7a6RND7ICsS+Cl+RbFa4c2+XB8K/YoY//KkRjjWIOsndEtL1AAPWkwJ8WXlRg0to0nQgU43Z5xg==",
+      "path": "humanizer.core.es/2.11.10",
+      "hashPath": "humanizer.core.es.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.fa/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5Ss422qRJe/N4ttiPpkbu9rEXkdio8y+YotwP141OLlxqZMrvo94cbXrhw5N8EE6nqZKK/iGSl4JNBO8rkVTOw==",
+      "path": "humanizer.core.fa/2.11.10",
+      "hashPath": "humanizer.core.fa.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.fi-FI/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5+ryLjlBrGx5MBfwftp2UsxxRt743jZllv1BUFtRg44iNSD9nmq/a/iainEMu3ad1Dv8PjI+xQiiQf6qYwafJA==",
+      "path": "humanizer.core.fi-fi/2.11.10",
+      "hashPath": "humanizer.core.fi-fi.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.fr/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Oq8o/08Mp8Ylf1J+2KoBvij5NNoYmyhqrLjw7OtjpYrCyaFRLg86+rkWjpmTtrxKXZyb4Qe3ZrO29B0PGdJeOQ==",
+      "path": "humanizer.core.fr/2.11.10",
+      "hashPath": "humanizer.core.fr.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.fr-BE/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-r7dn7lm58FwT4gjzqnHjGiqIpVbphusjix+qionOkt67JETJqYQouKX5k1YcQw5wErZS619fj+3ccdaYSbXUJA==",
+      "path": "humanizer.core.fr-be/2.11.10",
+      "hashPath": "humanizer.core.fr-be.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.he/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YABjM2v2z+n6mGczGwleZFlBBnvjWOiScJGzo36XxZtwOEp6WSoYGshhqJ5XczEu4ERIYwaNq34dzw2LuprQBA==",
+      "path": "humanizer.core.he/2.11.10",
+      "hashPath": "humanizer.core.he.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.hr/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C7ctxN6oeNqPYQIxIyBN3JJB5LaEQVVNp2mdlXpqTWVlyUoiL0xDFA2TuY08AsAj9x6lCr7QvciLKjaVKtum2Q==",
+      "path": "humanizer.core.hr/2.11.10",
+      "hashPath": "humanizer.core.hr.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.hu/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gK3iBNkakzSI3y4c04PnioTeTU8T8wWIy7ZXfnBrfpSA8Sqn2FL3xBUoIkmAljq3Bs5KtMPgwAZhBpeaT+ttHg==",
+      "path": "humanizer.core.hu/2.11.10",
+      "hashPath": "humanizer.core.hu.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.hy/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7OUlU5ikDcrbrkN21OPVB4YvAeJ6iZgNSBHImpsElOCGLIijnfXnwr5qnM3A5uTv2ReCORQqUAGhVke6P6yOSg==",
+      "path": "humanizer.core.hy/2.11.10",
+      "hashPath": "humanizer.core.hy.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.id/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FF+uSzIfWIpFHPyppqzGZzYzllNCuNMjWaf/TRsVmZ3Fq+tAhwa6e8yS4u+x+ipIpG9hZz0k6czaKBSjU5/LSg==",
+      "path": "humanizer.core.id/2.11.10",
+      "hashPath": "humanizer.core.id.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.it/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aCgofZddBdthWmXB92n+gD6jF0ffY5UtrQODdWNLYpIQwx9e4vuQzESh+AImaYMx0kghN2S1mqj/A83P5PQr8w==",
+      "path": "humanizer.core.it/2.11.10",
+      "hashPath": "humanizer.core.it.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.ja/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rZzqViI08XZ1n7D1Ybnvn7aSYqwrLcK5MynWtAsCe85XXjNCs+5lTtz5ByOfCL0qH3oT4w5BQIdDfjYsdnSCpw==",
+      "path": "humanizer.core.ja/2.11.10",
+      "hashPath": "humanizer.core.ja.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.ko-KR/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sE6IsSl35brWlkMCVFqbZ/y67Md2HFi2ndX3V8VB3vY3CM7u3WaApbP0zHAwGPi/JpnOtOp9y7SNLdaPK6sIwQ==",
+      "path": "humanizer.core.ko-kr/2.11.10",
+      "hashPath": "humanizer.core.ko-kr.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.ku/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qCK3ESQ3zmM4YBpjxXr5MA+dswwgIUNz4GuJQsMFOvXL4eRkwpjuwyhVVooJm397wejNDO09YOCUCTf57vzaKg==",
+      "path": "humanizer.core.ku/2.11.10",
+      "hashPath": "humanizer.core.ku.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.lv/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nURlUhnLXNi6oxV040nRxWxwRPZldbP4ronYypOsRM/ss6Xjle9hLBZD/euHZBFUOvSmc6zf+TPllShxOgxM6w==",
+      "path": "humanizer.core.lv/2.11.10",
+      "hashPath": "humanizer.core.lv.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.ms-MY/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GZ94cGtnZOts/kl9Hktb4XDEd+yRlbumnrqPRMxgjadONEVZ1fzckQVBrP6eN2TERYKedRxKhgYJeuikaXZqFA==",
+      "path": "humanizer.core.ms-my/2.11.10",
+      "hashPath": "humanizer.core.ms-my.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.mt/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-efYhCE6Kgr7yr8rqjUBJnH1HUENBK5qcc3B/d4AcuFAYF8jkheBDPOShxUbjGXW0DHHYoLcXRm6HK2QDLCdwag==",
+      "path": "humanizer.core.mt/2.11.10",
+      "hashPath": "humanizer.core.mt.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.nb/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lh4p8vYCvKHy+/NTSioVQWt181ulJx/p3dZIrmAN4NYYde9Y/CavKhAjBbFIpEGot0ivpL82MTnSVrklLE2DGg==",
+      "path": "humanizer.core.nb/2.11.10",
+      "hashPath": "humanizer.core.nb.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.nb-NO/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bm6ZdjefDGlO936XFXbXRy745QMdI0L+TMuUoVe789qIhZuhGVUlYxqip1pECt3EUAIMuPMHhRITOebVCrJd+g==",
+      "path": "humanizer.core.nb-no/2.11.10",
+      "hashPath": "humanizer.core.nb-no.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.nl/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lpMm88opnpysKS7xsVrgEEwagjNQWbLLbAfxT5jFhbptqWtvd0qndS9h3eed8n8xzB+iHJbbvJ+FuUlVvbMIDA==",
+      "path": "humanizer.core.nl/2.11.10",
+      "hashPath": "humanizer.core.nl.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.pl/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/NOyROzFCGfCSZFiZvIuXczRmsDWxZLB187JNp5/wkaVCUJyFuE6I9b4OdlxQhVWquq51wRd6iGxHGuhrjuf5Q==",
+      "path": "humanizer.core.pl/2.11.10",
+      "hashPath": "humanizer.core.pl.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.pt/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eGgwfKbsyTgtN1IE10WTesvRLMUwkaKQYWI5MgU6goOU+yMAQbJqt2gGIKkYbbvIXGeJVwE9XoDmxRpVvvCgLw==",
+      "path": "humanizer.core.pt/2.11.10",
+      "hashPath": "humanizer.core.pt.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.ro/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EqHdv1cTBYjYBV6D5IzLbZA0/v5IqZK6Nf55z3EVf8QOrKSuU6d8/4Wr7Qdv6txnkKxLnOlBG2CnfGfaxK/bPg==",
+      "path": "humanizer.core.ro/2.11.10",
+      "hashPath": "humanizer.core.ro.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.ru/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qyotxQTojrrQS2ZvC1AoVETinq2ryX1kyyhU1b9ly4vvDT/8Mm2n26un2WyeubEK424lZQSKG8T8QHH7SZ5nTg==",
+      "path": "humanizer.core.ru/2.11.10",
+      "hashPath": "humanizer.core.ru.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.sk/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WLyjgx0JmN22xAZFbiaGix7WQtMHJKXGGs4BFhlkP8ZWsX5rBBdofScNfW99g/ugvmD5iIzCv9L4cMpJjJNH+g==",
+      "path": "humanizer.core.sk/2.11.10",
+      "hashPath": "humanizer.core.sk.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.sl/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+B60wZreFDe3i6RJLF+X4zQfoqiG2cXC7Kq1XeJdCdtrMuep5/YYsLcDMKSWjZQbJvJC6JVlQwBPpVJSy70nKQ==",
+      "path": "humanizer.core.sl/2.11.10",
+      "hashPath": "humanizer.core.sl.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.sr/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-W46gq93yCYZ9MCX7P0+IIC26qHUjdtBzjkg0cBQKZAMHCQT6AM/eqhnmOWNpbIGI1Pjt8e6L8QV9H/ZcgSCC2w==",
+      "path": "humanizer.core.sr/2.11.10",
+      "hashPath": "humanizer.core.sr.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.sr-Latn/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8HO5u4L3jFfzIbIKkY8ysCmfgukoyzcRg6eThiKLX/esas0gB7lxZKYIvXfpblR+YW7HVvd2Mrab472Gn+N/Hg==",
+      "path": "humanizer.core.sr-latn/2.11.10",
+      "hashPath": "humanizer.core.sr-latn.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.sv/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/ljtfQERCBlBfNpFRcj8Efap6pDTO6CLNyhmVq8ElNpG7Y0LhhSa/Cae5PlFHRG1vWzedTctnigKAqbySsr6dQ==",
+      "path": "humanizer.core.sv/2.11.10",
+      "hashPath": "humanizer.core.sv.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.th-TH/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OqI+KhA+Plz0RXsCRl5LNhh7ZYLeXVexQ42yokgWm7TsGjHGghijjZmdwiRbBeNWJ36D88kmigWjRAweIznYbA==",
+      "path": "humanizer.core.th-th/2.11.10",
+      "hashPath": "humanizer.core.th-th.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.tr/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f+Dye/8nR4lhEmhfSNp/uMX5z08L3ddaxeOy3huTxtzNk8BVG7FR3ApEKWZdwn4Bg87LkxxrSflRI8w4Bu+1jw==",
+      "path": "humanizer.core.tr/2.11.10",
+      "hashPath": "humanizer.core.tr.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.uk/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KFijERt+o752WBZYPgJDbDccSnDujEu1P16IuLsbthe3mVsDOQx8yFTPwVChEm+IuKY3j3NFlxy9jpGm6DRBLw==",
+      "path": "humanizer.core.uk/2.11.10",
+      "hashPath": "humanizer.core.uk.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.uz-Cyrl-UZ/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-x03jC63WsAnjARzdieXvYt4Oz+Jcm+Hia/9NZBRM2eLyUNfgvSF4B+HlFpe3K3jfQNHk181Mo4wY0sl4vRgFAQ==",
+      "path": "humanizer.core.uz-cyrl-uz/2.11.10",
+      "hashPath": "humanizer.core.uz-cyrl-uz.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.uz-Latn-UZ/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZeBjuMyoy+a170cUbiTQHo+Hej4FVpigee7zJ9Phr0myd2o9nXIxN40zykiS/npVJcl+oQq8YQVKmEiUicv9Tw==",
+      "path": "humanizer.core.uz-latn-uz/2.11.10",
+      "hashPath": "humanizer.core.uz-latn-uz.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.vi/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-W1RPA+fiJAROZskLzpP/1mzmeRJY4l2CNhS+B7h4BPxI3Pg+Qwojc4i3zocaja66M3CS7GSun1GXhD1usn90sw==",
+      "path": "humanizer.core.vi/2.11.10",
+      "hashPath": "humanizer.core.vi.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.zh-CN/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xOurWoWrbhkk1qMPIBUuwZZTNDO5OF2mfaBNGX7GkwYfzn8kjKUSrWc7U0H7MSobmEdfbz49+EGK+g3xEYgPIA==",
+      "path": "humanizer.core.zh-cn/2.11.10",
+      "hashPath": "humanizer.core.zh-cn.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.zh-Hans/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LW5Mixuomot1poRdZAUqs6ZBbwheoTfNqjqZxC1tKvEQYv6g7q5UXAXOIgEBowEg7ODo0IokE+ORj1TcZrYdOQ==",
+      "path": "humanizer.core.zh-hans/2.11.10",
+      "hashPath": "humanizer.core.zh-hans.2.11.10.nupkg.sha512"
+    },
+    "Humanizer.Core.zh-Hant/2.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-e2fr5ssWp98YuyU3GfN21TEPHXnBjMZfQQYMWxMbPAQeAKe/GH5DogkJpkPRsECeMWWwjtvGEv3RVmKVnQ1bdA==",
+      "path": "humanizer.core.zh-hant/2.11.10",
+      "hashPath": "humanizer.core.zh-hant.2.11.10.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
