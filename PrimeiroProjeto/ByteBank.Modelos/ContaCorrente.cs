@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace ByteBank.Modelos
 {
+    /// <summary>
+    /// Define uma conta corrente do banco ByteBank.
+    /// </summary>
     public class ContaCorrente
     {
         private static int TaxaOperacao;
@@ -38,6 +41,11 @@ namespace ByteBank.Modelos
             }
         }
 
+        /// <summary>
+        /// Cria uma instacia com os argumetos utilizados
+        /// </summary>
+        /// <param name="agencia"> Representa o valor da propiedade <see chref="Agencia"> e deve possuir um valor maior que 0</param>
+        /// <param name="numero"> Representa o valor da propiedade <see chref="Numero"> e deve possuir um valor maior que 0</param>
         public ContaCorrente(int agencia, int numero)
         {
             if (numero <= 0)
