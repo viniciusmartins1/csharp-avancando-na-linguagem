@@ -12,6 +12,7 @@ Exercícios de alguns dos cursos da formação programação com C# do [Alura](h
 - Documentação de Exceções, Classes e Funções;
 - Class DateTime;
 - Introdução ao Nuget;
+- Uso de extensões do VSCode;
 
  
  #
